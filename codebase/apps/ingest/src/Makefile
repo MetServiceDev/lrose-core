@@ -57,6 +57,9 @@ SUB_DIRS = \
 	SerialIngest \
 	ShipObsIngest \
 	SigAirMet2Spdb \
+	Sigmet2Dsr \
+	SigmetRaw2Dsr \
+	SigmetUdp2Dsr \
 	SynopObsIngest \
 	UAEMesonet2Spdb \
 	Uf2Dsr \
