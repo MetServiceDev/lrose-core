@@ -39,7 +39,7 @@ LOC_CFLAGS =
 LOC_LDFLAGS =
 LOC_LIBS = \
 	-lFmq -ltrmm_rsl $(LEX_LIB) -ldsserver \
-	-ldidss -lrapformats -leuclid -ltoolsa -lpthread -ldataport \
+	-ldidss -lrapformats -leuclid -lrapmath -ltoolsa -lpthread -ldataport \
 	-ltdrp -lbz2 -lz
 
 HDRS = \
