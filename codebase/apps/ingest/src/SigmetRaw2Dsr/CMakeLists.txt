@@ -124,6 +124,7 @@ link_libraries (pthread)
 link_libraries (rapmath)
 link_libraries (dataport)
 link_libraries (tdrp)
+link_libraries (physics)
 link_libraries (bz2)
 link_libraries (z)
 
