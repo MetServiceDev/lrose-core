@@ -109,6 +109,7 @@ include_directories (../../shapelib/src/include)
 include_directories (../../tdrp/src/include)
 include_directories (../../titan/src/include)
 include_directories (../../toolsa/src/include)
+include_directories (../../trmm_rsl/src/include)
 include_directories (${CMAKE_INSTALL_PREFIX}/include)
 if (DEFINED MAMBA_BUILD)
 # MAMBA builds ignore system libs, use mamba libs

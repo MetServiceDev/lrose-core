@@ -43,4 +43,5 @@ add_subdirectory (shapelib)
 add_subdirectory (tdrp)
 add_subdirectory (titan)
 add_subdirectory (toolsa)
+add_subdirectory (trmm_rsl)
 

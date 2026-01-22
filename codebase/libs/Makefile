@@ -11,9 +11,9 @@ SUB_DIRS = \
 	FiltAlgVirtVol \
 	Fmq \
 	Mdv \
-        Ncxx \
+    Ncxx \
 	Radx \
-        Refract \
+	Refract \
 	Solo \
 	Spdb \
 	advect \
@@ -37,6 +37,7 @@ SUB_DIRS = \
 	shapelib \
 	tdrp \
 	titan \
-	toolsa
+	toolsa \
+	trmm_rsl
 
 include $(LROSE_CORE_DIR)/build/make_include/lrose_make_recursive_dir_targets
